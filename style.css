@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+header {
+    align: center;
+}
+h1 {
+    color: coral;
+    text-align: center;
+}
+
+h2 {
+    color: brown;
+    text-align: center;
+}
+
+h3 {
+    color: coral;
+    text-align: center;
+}
+
+strong {
+    background-color: chocolate;
+}
+
+p {
+    color: antiquewhite;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+ul {
+    color: antiquewhite;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+}
